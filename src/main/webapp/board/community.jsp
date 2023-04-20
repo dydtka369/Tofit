@@ -45,7 +45,7 @@
                         <li><a href="indexshop.html">í¤í ì¼íëª°</a></li>
                         <li><a href="community.html">í¤í ìíµ</a></li>
                         <li><a href="sub_mypage01.html">ë§ì´íì´ì§</a></li>
-                        <li><a href="gide.html">ì´ì©ê°ì´ë</a></li>
+                        <li><a href="gide.html">테스트입니다</a></li>
                     </ul>
                 </div>
                 <div class="login_btn">
