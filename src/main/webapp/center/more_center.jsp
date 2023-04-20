@@ -33,7 +33,7 @@
                 </h1>
                 <div class="gnb_inner">
                     <ul>
-                        <li><a href="./center_main.html">í¼í¸ëì¤</a></li>
+                        <li><a href="./center_main.html">테스트</a></li>
                         <li><a href="./indexshop.html">í¤í ì¼íëª°</a></li>
                         <li><a href="./bulletin.html">í¤í ìíµ</a></li>
                         <li><a href="./gide.html">ì´ì©ê°ì´ë</a></li>
